@@ -50,6 +50,7 @@ dnf -y install \
   ibus \
   ifuse \
   intel-audio-firmware \
+  iwd \
   iwlegacy-firmware \
   iwlwifi-dvm-firmware \
   iwlwifi-mvm-firmware \
